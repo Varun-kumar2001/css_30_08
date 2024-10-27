@@ -1,0 +1,69 @@
+header{
+    font-size: xx-large;
+    te
+}
+
+.head td{
+    padding: 0px 40px;
+}
+.head td a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.div1{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/034/134/187/original/panning-shot-of-elegant-selection-of-shirts-on-hangers-in-high-end-fashion-boutique-showcasing-trendy-stylish-garments-from-their-new-collection-close-up-on-men-shirts-in-mall-clothing-store-video.jpg);
+    background-size: cover;
+    background-repeat: none;
+}
+.div1 p{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 230px;
+    font-weight: bolder;
+}
+.div1 input{
+align-content: center;
+text-align: center;
+}
+.div2{
+    margin-top: 50px;
+    padding-top: 50px;
+    background-color: aquamarine;
+}
+.table1{
+
+}
+.td1{
+    width: 50%;
+}
+.td1 img{
+    width: 500px;
+    padding-left: 50px;
+}
+.td2{
+    width: 50%;
+}
+.div3 td{
+    padding: 20px 50px;
+    font-size:normal;
+    font-family:'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+}
+.div3 td img{
+    width: 300px;
+}
+footer{
+    background-color: cadetblue;
+}
+.table2{
+    padding-left: 100px;
+}
+.copyright{
+    align-items: center;
+    text-align: center;
+}
